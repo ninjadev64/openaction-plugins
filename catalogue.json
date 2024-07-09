@@ -148,5 +148,10 @@
 		"name": "OpenHardwareSensor",
 		"author": "Xiphis",
 		"repository": "https://github.com/atcurtis/streamdeck-ohs"
+	},
+	"dev.theca11.whack-a-mole": {
+		"name": "Whack-A-Mole",
+		"author": "the_ca11",
+		"repository": "https://github.com/theca11/whack-a-mole"
 	}
 }
